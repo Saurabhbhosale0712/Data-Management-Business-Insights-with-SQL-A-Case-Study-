@@ -1,7 +1,15 @@
 # -Business-Data-Management-with-SQL-A-Case-Study-
 This project showcases a SQL-based database management system designed to handle critical data for an IT firm's operations, including Clients, Employees, Departments, Projects, and Employee Project Tasks.
 
+OVERVIEW:
 "In my project, I built an SQL-based relational database to manage data for clients, employees, departments, and projects. I implemented constraints to ensure data integrity and used joins, subqueries, and aggregate functions to efficiently retrieve and analyze data. The project focused on optimizing operations like project tracking and employee management, enhancing my skills in SQL and database management."
+
+Project Overview:
+- Designed and managed a relational database system with tables for Clients, Employees, Departments, and Projects.
+- Applied primary keys, foreign keys, and constraints to ensure data integrity.
+- Executed advanced SQL queries, including joins, subqueries, and aggregations for data analysis.
+- Optimized data retrieval and provided insights for business operations and decision-making.
+
 
 Key Features:
 Table Creation: Defined and created tables for clients, employees, departments, projects, and employee project tasks with appropriate constraints such as primary keys, foreign keys, and CHECK constraints.
