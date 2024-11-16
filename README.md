@@ -7,7 +7,7 @@ OVERVIEW:
 Project Overview:
 - Designed and managed a relational database system with tables for Clients, Employees, Departments, and Projects.
 - Applied primary keys, foreign keys, and constraints to ensure data integrity.
-- Executed advanced SQL queries, including joins, subqueries, and aggregations for data analysis.
+- Executed advanced SQL queries, including joins, subqueries, and aggregations for data analysiss.
 - Optimized data retrieval and provided insights for business operations and decision-making.
 
 
