@@ -1,6 +1,7 @@
 # -Business-Data-Management-with-SQL-A-Case-Study-
 This project showcases a SQL-based database management system designed to handle critical data for an IT firm's operations, including Clients, Employees, Departments, Projects, and Employee Project Tasks.
-Complete Roadmap to learn SQL (https://t.me/sqlanalyst) in 2024 👇👇
+
+🌟🌟Complete Roadmap to learn SQL 👇👇
 
 1. Basic Concepts
    - Understand databases and SQL.
