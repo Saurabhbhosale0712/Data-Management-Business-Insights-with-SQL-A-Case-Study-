@@ -1,5 +1,48 @@
 # -Business-Data-Management-with-SQL-A-Case-Study-
 This project showcases a SQL-based database management system designed to handle critical data for an IT firm's operations, including Clients, Employees, Departments, Projects, and Employee Project Tasks.
+Complete Roadmap to learn SQL (https://t.me/sqlanalyst) in 2024 👇👇
+
+1. Basic Concepts
+   - Understand databases and SQL.
+   - Learn data types (INT, VARCHAR, DATE, etc.).
+
+2. Basic Queries
+   - SELECT: Retrieve data.
+   - WHERE: Filter results.
+   - ORDER BY: Sort results.
+   - LIMIT: Restrict results.
+
+3. Aggregate Functions
+   - COUNT, SUM, AVG, MAX, MIN.
+   - Use GROUP BY to group results.
+
+4. Joins
+   - INNER JOIN: Combine rows from two tables based on a condition.
+   - LEFT JOIN: Include all rows from the left table.
+   - RIGHT JOIN: Include all rows from the right table.
+   - FULL OUTER JOIN: Include all rows from both tables.
+
+5. Subqueries
+   - Use nested queries for complex data retrieval.
+
+6. Data Manipulation
+   - INSERT: Add new records.
+   - UPDATE: Modify existing records.
+   - DELETE: Remove records.
+
+7. Schema Management
+   - CREATE TABLE: Define new tables.
+   - ALTER TABLE: Modify existing tables.
+   - DROP TABLE: Remove tables.
+
+8. Indexes
+   - Understand how to create and use indexes to optimize queries.
+
+9. Views
+   - Create and manage views for simplified data access.
+
+10. Transactions
+    - Learn about COMMIT and ROLLBACK for data integrity.
 
 OVERVIEW:
 "In my project, I built an SQL-based relational database to manage data for clients, employees, departments, and projects. I implemented constraints to ensure data integrity and used joins, subqueries, and aggregate functions to efficiently retrieve and analyze data. The project focused on optimizing operations like project tracking and employee management, enhancing my skills in SQL and database management."
