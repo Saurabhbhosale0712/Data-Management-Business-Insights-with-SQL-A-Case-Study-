@@ -7,7 +7,7 @@ This project showcases a SQL-based database management system designed to handle
   ## 2. Query Development for Business Insights:  
    Write and execute complex SQL queries to extract actionable insights, such as employee performance metrics, project budgets, and departmental statistics.  
 
-  ## 3. Analytical Reporting and Trends Visualization:  
+  ## 3. Analytical Reporting :  
    Analyze business data to identify patterns, such as task completion rates, average salaries, and project progress. Use SQL queries to provide detailed reports and visual insights.  
 
   ## 4. Optimized Data Retrieval and Decision Support:
